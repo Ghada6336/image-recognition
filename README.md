@@ -2,7 +2,7 @@
 
 ## Image Recognition on Cats Images 
 
-This project demonstrates how to use a pre-trained VGG16 model to perform image recognition on cat images. 
+This repository section demonstrates how to use a pre-trained VGG16 model to perform image recognition on cat images. 
 
 ### Requirements
 Make sure you have the following libraries installed:
@@ -13,7 +13,7 @@ Make sure you have the following libraries installed:
 
 ## Fashion Recommendation System using Image Features 
 
-This repository contains the implementation of a Fashion Recommendation System leveraging computer vision and machine learning techniques to analyze and recommend fashion items based on image features.
+This repository section  contains the implementation of a Fashion Recommendation System leveraging computer vision and machine learning techniques to analyze and recommend fashion items based on image features.
 
 ### Process Overview
 - Data Collection: Assemble a diverse dataset of fashion items.
